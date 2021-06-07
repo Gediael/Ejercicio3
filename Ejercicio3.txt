@@ -1,0 +1,17 @@
+
+Ejercicio 3
+Inicio
+	definir factorial n;
+	definir I;
+	Escribir "Ingrese un numero";
+	leer n;
+	factorial menor -1
+	si n mayor a 0 entonces 
+		para I-1 hasta n como paso 1 hacer
+			factorial menor -factorial*I;
+		finPara
+		Escribir "El factorial es: "factirial;
+	sino
+		Escribir "No existe un factorial"
+	Finsi
+Fin
